@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Commit Message"
+  short_description: "根据真实变更生成规范的中文 Git 提交信息"
+  default_prompt: "Use $generate-commit-message for current git changes."
