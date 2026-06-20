@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Coding Standards"
+  short_description: "Java 代码规范与 Effective Java 实践"
+  default_prompt: "Use $java-coding-standards to implement or review Java code according to the project Java rules."
